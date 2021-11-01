@@ -68,14 +68,14 @@
     transform: rotate(360deg);
   }
 } 
-/* body{
-  background-color: rgba(53, 53, 53, 0.774);
+body{
+  /* background-color: rgba(53, 53, 53, 0.774); */
 }
 * {
-  color: white;
+  /* color: white; */
   font: bold;
   
-} */
+}
 
 hr {
   border: 0;

@@ -69,12 +69,10 @@
   }
 } 
 /* body{
-  background-color: rgba(53, 53, 53, 0.774);
+  background-color: rgb(24, 23, 23);
 }
 * {
   color: white;
-  font: bold;
-  
 } */
 
 hr {
@@ -121,20 +119,14 @@ hr {
 
 .socials-icons {
   padding: 20px;
-  border: rgb(3, 3, 3);
+  border: black;
   border-radius: 2px;
 }
 .artist-icon {
   max-width: 30vw;
-  border-radius: 100%;
+  border-radius: 80%;
 }
 .music-container {
   display: flex;
-  /* background-image: url("https://i.pinimg.com/originals/d9/af/b2/d9afb2f0c922f34cb6ae8ad219f53ca3.gif"); */
-  /* background-image: url("https://64.media.tumblr.com/f12dc8963f2ad6f4003fd216ebf610e0/tumblr_pns51ntyf21u221sg_400.gifv"); */
-  /* background-image: url("https://www.kolpaper.com/wp-content/uploads/2021/06/Sung-Jin-Woo-Wallpapers-2.jpg"); */
-  /* background-image: url("https://64.media.tumblr.com/a8a4fc47fca23c5f70e91acb326bd8d4/33e8286075695d94-58/s500x750/0008d1e2c56e6a49f306374714c5f5856f9b3d6f.gifv"); */
-  background-image: url("https://www.teahub.io/photos/full/284-2841422_thumb-image-forest-pixel-art-gif.gif")
-  /* background-repeat: no-repeat; */
 }
 

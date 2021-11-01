@@ -41,7 +41,7 @@ function Music () {
                         <Typography variant="p" component="div" gutterBottom>
                            Untitled
                         </Typography>
-                        <Typography variant="h6" component="div" background-color="white" gutterBottom>
+                        <Typography variant="h6" component="div" background-color="white"gutterBottom>
                             I use FL Studio 20 to make music but I'm also familiar with Abeleton. 
                             There I can chop samples or make instrumentals from sratch using a wide variety of VSTs (Virtual Studio Technology) 
                             and add any drums that I may want. The music I make primarily falls within the hip-hop/rap genre but I'm also well versed in 

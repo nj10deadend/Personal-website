@@ -68,14 +68,12 @@
     transform: rotate(360deg);
   }
 } 
-/* body{
-  background-color: rgba(53, 53, 53, 0.774);
+body{
+  background-color: rgb(0, 0, 0);
 }
 * {
   color: white;
-  font: bold;
-  
-} */
+}
 
 hr {
   border: 0;
@@ -121,7 +119,7 @@ hr {
 
 .socials-icons {
   padding: 20px;
-  border: rgb(3, 3, 3);
+  border: black;
   border-radius: 2px;
 }
 .artist-icon {
